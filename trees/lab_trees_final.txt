@@ -1,0 +1,22 @@
+Monad Autograder
+Testing lab_trees at 2014-03-10 07:34:22
+
+"More than the act of testing, the act of designing tests is one of the best bug preventers known. The thinking that must be done to create a useful test can discover and eliminate bugs before they are coded - indeed, test-design thinking can discover and eliminate bugs at every stage in the creation of software, from conception to specification, to design, coding and the rest." ~ Boris Bezier
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_isOrdered  . [33 pts] - passed
+test_mirror . . . [33 pts] - passed
+test_printPaths . [34 pts] - passed
+test_sumDistances [25 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 125
+

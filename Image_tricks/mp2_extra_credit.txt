@@ -1,0 +1,26 @@
+Monad Autograder
+Testing mp2.1 at 2014-02-05 00:33:26
+
+"The cheating sheet is key to success in CS 412 course." ~ CS 412 TA
+
+Setting up test environment...
+cp: cannot stat `/dev/shm/geigle1/monad/sp14-cs225/dgupta13/mp2/scene.h': No such file or directory
+cp: cannot stat `/dev/shm/geigle1/monad/sp14-cs225/dgupta13/mp2/scene.cpp': No such file or directory
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+InvertColorsEven  . . [33 pts] - passed
+FlipLeftEven  . . . . [17 pts] - passed
+FlipLeftOdd . . . . . [17 pts] - passed
+AdjustBrightnessEven  [11 pts] - passed
+AdjustBrightnessEven2 [11 pts] - passed
+AdjustBrightnessEven3 [11 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+
